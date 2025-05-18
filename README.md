@@ -1,2 +1,8 @@
-# multi_agent_demo_langraph
-multi_agent_demo_langraph
+python main.py
+
+use above cmd to run
+
+
+use main dtr
+
+db ss attached
